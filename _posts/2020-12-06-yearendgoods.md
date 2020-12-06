@@ -3,8 +3,8 @@ layout: post
 permalink: /year-end-goods/
 title: '2020년 연말 & 크리스마스 선물 추천'
 date: 2020-12-05 09:30:00 +09:00
-feature: '/img/posts/08/thumbnail_1200x628px.jpg'
-background: '/img/posts/08/background_1280x720px.jpg'
+feature: '/img/posts/09/thumbnail_1200x628px.jpg'
+background: '/img/posts/09/background_1280x720px.jpg'
 categories:
   - tips
 tags:
