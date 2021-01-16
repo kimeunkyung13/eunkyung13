@@ -26,8 +26,15 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
+        <script>
 
         {{ content }}
+
+        dataLayer.push({
+          'event':'Post_view',
+          'Page_title':'{{page.title}}'
+        });
+        </script>
 
       </div>
     </div>
