@@ -53,4 +53,11 @@ layout: default
   <script>
     var title="{{page.title}}";
     gtag('event', title, {'event_category': '글 보기'})
+
+    dataLayer.push({
+      'event':'pageView',
+      'pageTitle':'{{page.title}}'
+      'pageUrl':'{{page.url}}'
+    });
+
 </script>
