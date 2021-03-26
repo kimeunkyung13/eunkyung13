@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /vaseline-campaign/
+permalink: /post/vaseline-campaign/
 title: '바세린 150주년 기념 캠페인'
 date: 2020-10-28 09:00:00 +09:00
 feature: '/img/posts/06/thumbnail_1200x628px.jpg'

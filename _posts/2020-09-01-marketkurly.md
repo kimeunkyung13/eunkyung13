@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /marketkurly/
+permalink: /post/marketkurly/
 title: '마켓컬리 인사이트'
 date: 2020-09-01 11:30:00 +09:00
 feature: '/img/posts/02/thumbnail_1200x628px.jpg'

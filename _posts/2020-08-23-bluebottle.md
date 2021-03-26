@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /bluebottle/
+permalink: /post/bluebottle/
 title: '블루보틀 인사이트'
 date: 2020-08-23 11:30:00 +09:00
 feature: '/img/posts/01/thumbnail_1200x628px.jpg'

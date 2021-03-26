@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /today'shouse/
+permalink: /post/today'shouse/
 title: '오늘의 집 인사이트'
 date: 2020-09-27 21:00:00 +09:00
 feature: '/img/posts/04/thumbnail_1200x628px.jpg'

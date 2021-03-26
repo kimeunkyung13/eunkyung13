@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /covid-19-business/
+permalink: /post/covid-19-business/
 title: '코로나로 인해 바뀐 비지니스 시장'
 date: 2020-10-07 09:00:00 +09:00
 feature: '/img/posts/05/thumbnail_1200x628px.jpg'
