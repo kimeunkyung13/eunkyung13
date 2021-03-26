@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /post/todayhouse/
-title: '오늘의 집 TV CF'
+title: '오늘의 집 TV CF 인사이트'
 date: 2021-03-26 22:30:00 +09:00
 feature: '/img/posts/08/living-room-1835923_1280.jpg'
 background: '/img/posts/08/furniture-998265_1280.jpg'
