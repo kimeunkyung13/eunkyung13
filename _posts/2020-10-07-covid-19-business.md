@@ -3,8 +3,8 @@ layout: post
 permalink: /post/covid-19-business/
 title: '코로나로 인해 바뀐 비지니스 시장'
 date: 2020-10-07 09:00:00 +09:00
-feature: '/img/posts/08/thumbnail_1200x628.jpg'
-background: '/img/posts/08/background_1280*720.jpg'
+feature: '/img/posts/05/thumbnail_1200x628px.jpg'
+background: '/img/posts/05/background_1280x720px.jpg'
 categories:
   - brand
 tags:
